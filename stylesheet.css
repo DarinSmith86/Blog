@@ -1,13 +1,25 @@
-
-h1, h2 {
-  background-color: green;
+body {
+  background-color: black;
+  background-image: url(galvanize-logo.png);
+  background-size: 500px 300px;
+  background-repeat: no-repeat;
+  background-position: 80% 60%;
 }
 
-ul {
-  color: orange;
+
+
+h1, h2 {
+  background-color: white;
+
+}
+
+li {
+  color: grey;
 }
 
 
 p {
-  color: blue;
+  font-size: large;
+  color: white;
+
 }

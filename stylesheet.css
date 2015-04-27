@@ -6,20 +6,23 @@ body {
   background-position: 80% 60%;
 }
 
-
-
 h1, h2 {
   background-color: white;
-
 }
 
+div {
+background-color: white;
+height:40px;
+width: 300px;
+}
+
+
 li {
-  color: grey;
+  color: white;
 }
 
 
 p {
   font-size: large;
   color: white;
-
 }
